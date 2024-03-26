@@ -10,3 +10,5 @@ cube = number ** 3 # OR  can import from math library
 cubeR = math.pow(number,3)
 print("MathCube",cubeR)
 print("cube", cube)
+
+# pls check update
