@@ -1,12 +1,12 @@
 # Task #2
-a = input("Enter the first number")
-b = input("Enter the second number")
+x = input("Enter the first number")
+y = input("Enter the second number")
 
-greater = (a > b)
-print(greater)
-
-lessthan = (a < b)
-print(lessthan)
-
-equal = (a == b)
-print(equal)
+# x = 10
+# y = 20
+if x > y :
+    print("x>y")
+elif x < y:
+    print("x<y")
+else:
+    print("x and y are same")
