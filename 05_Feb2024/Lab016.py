@@ -4,8 +4,9 @@ print(len(name)) # len strats from 1  , but index starts from 0, index[0]  = b f
 print(name[4])
 print(name[5])
 # print(name[6])  # IndexError: string index out of range
-print(len(name)-2)
-print(name[len(name)-1])
+print("value", len(name)-2)
+print("Value1",name[len(name)-1])
+
 
 #string immutability
 
