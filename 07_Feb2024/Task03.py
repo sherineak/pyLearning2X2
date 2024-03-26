@@ -11,4 +11,4 @@ cubeR = math.pow(number,3)
 print("MathCube",cubeR)
 print("cube", cube)
 
-# pls check update
+# pls check update and push
